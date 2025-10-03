@@ -2,7 +2,7 @@
     "@context": {
         "dc": "http://purl.org/dc/elements/1.1/"
     },
-    "dc:title": "Jelly Belly API Combinations Data",
+    "dc:title": "Jelly Belly API Facts Data",
     "dc:description": "A dataset of Jelly Belly official facts and metadata.",
     "dc:creator": "Ali, Faizaan; Gupte, Samir; Jaquinet, Joshue Agustin; Cheung, Celine",
     "dc:source": "https://jelly-belly-wiki.netlify.app/; https://jellybellywikiapi.onrender.com/api/facts",
