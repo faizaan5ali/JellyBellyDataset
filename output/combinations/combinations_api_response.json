@@ -1,0 +1,623 @@
+[
+  {
+    "totalCount": 54,
+    "pageSize": 2000,
+    "currentPage": 1,
+    "totalPages": 1,
+    "items": [
+      {
+        "combinationId": 1,
+        "name": "Cherry Turnover",
+        "tag": [
+          "Very Cherry",
+          "+",
+          "Very Cherry",
+          "+",
+          "Coconut",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 2,
+        "name": "Apple Pie",
+        "tag": [
+          "Green Apple",
+          "+",
+          "Green Apple",
+          "+",
+          "Cinnamon"
+        ]
+      },
+      {
+        "combinationId": 3,
+        "name": "Banana Bread",
+        "tag": [
+          "Top Banana",
+          "+",
+          "Top Banana",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 4,
+        "name": "Banana Cream Pie",
+        "tag": [
+          "Top Banana",
+          "+",
+          "A&W® Cream Soda",
+          "+",
+          "Coconut"
+        ]
+      },
+      {
+        "combinationId": 5,
+        "name": "Banana Split",
+        "tag": [
+          "Top Banana",
+          "+",
+          "Chocolate Pudding",
+          "+",
+          "Crushed Pineapple",
+          "+",
+          "Strawberry Jam",
+          "+",
+          "Very Cherry",
+          "+ French Vanilla"
+        ]
+      },
+      {
+        "combinationId": 6,
+        "name": "Bananas Foster",
+        "tag": [
+          "Top Banana",
+          "+",
+          "Top Banana",
+          "+",
+          "Top Banana",
+          "+",
+          "Buttered Popcorn",
+          "+",
+          "French Vanilla"
+        ]
+      },
+      {
+        "combinationId": 7,
+        "name": "Berry Lemonade",
+        "tag": [
+          "Berry Blu",
+          "+",
+          "SUNKIST® Lemon"
+        ]
+      },
+      {
+        "combinationId": 8,
+        "name": "Blueberry Cheesecake",
+        "tag": [
+          "Blueberry",
+          "+",
+          "Strawberry Cheesecake",
+          "+",
+          "French Vanilla",
+          "+",
+          "A&W® Cream Soda"
+        ]
+      },
+      {
+        "combinationId": 9,
+        "name": "Blueberry Muffin",
+        "tag": [
+          "Blueberry",
+          "+",
+          "Blueberry",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 10,
+        "name": "Blueberry Pancakes",
+        "tag": [
+          "Blueberry",
+          "+",
+          "Caramel Corn",
+          "+",
+          "French Vanilla",
+          "+",
+          "Toasted Marshmallow",
+          "+",
+          "Toasted Marshmallow"
+        ]
+      },
+      {
+        "combinationId": 11,
+        "name": "Café Mocha",
+        "tag": [
+          "Cappuccino",
+          "+",
+          "Cappuccino",
+          "+",
+          "Chocolate Pudding",
+          "+",
+          "French Vanilla"
+        ]
+      },
+      {
+        "combinationId": 12,
+        "name": "Candy Apple",
+        "tag": [
+          "Green Apple",
+          "+",
+          "Green Apple",
+          "+",
+          "Cinnamon"
+        ]
+      },
+      {
+        "combinationId": 13,
+        "name": "Cherry Cola",
+        "tag": [
+          "Very Cherry",
+          "+",
+          "Very Cherry",
+          "+",
+          "Dr Pepper®"
+        ]
+      },
+      {
+        "combinationId": 14,
+        "name": "Cherry Turnover",
+        "tag": [
+          "Very Cherry",
+          "+",
+          "Very Cherry",
+          "+",
+          "Coconut",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 15,
+        "name": "Chocolate Covered Cherries",
+        "tag": [
+          "Very Cherry",
+          "+",
+          "Very Cherry",
+          "+",
+          "Chocolate Pudding"
+        ]
+      },
+      {
+        "combinationId": 16,
+        "name": "Chocolate Dipped Banana",
+        "tag": [
+          "Top Banana",
+          "+",
+          "Chocolate Pudding"
+        ]
+      },
+      {
+        "combinationId": 17,
+        "name": "Chocolate Dipped Strawberries",
+        "tag": [
+          "Strawberry Daiquiri",
+          "+",
+          "Strawberry Daiquiri",
+          "+",
+          "Chocolate Pudding"
+        ]
+      },
+      {
+        "combinationId": 18,
+        "name": "Chocolate Macaroons",
+        "tag": [
+          "Chocolate Pudding",
+          "+",
+          "Coconut"
+        ]
+      },
+      {
+        "combinationId": 19,
+        "name": "Chocolate Popcorn",
+        "tag": [
+          "Chocolate Pudding",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 20,
+        "name": "Cinnamon Bubble Gum",
+        "tag": [
+          "Cinnamon",
+          "+",
+          "Bubble Gum"
+        ]
+      },
+      {
+        "combinationId": 21,
+        "name": "Cinnamon Popcorn",
+        "tag": [
+          "Buttered Popcorn",
+          "+",
+          "Buttered Popcorn",
+          "+",
+          "Sizzling Cinnamon"
+        ]
+      },
+      {
+        "combinationId": 22,
+        "name": "Coffee Cake",
+        "tag": [
+          "Cappuccino",
+          "+",
+          "Buttered Popcorn",
+          "+",
+          "French Vanilla"
+        ]
+      },
+      {
+        "combinationId": 23,
+        "name": "Cola",
+        "tag": [
+          "Lime",
+          "+",
+          "Cinnamon"
+        ]
+      },
+      {
+        "combinationId": 24,
+        "name": "Fruit Punch",
+        "tag": [
+          "Island Punch",
+          "+",
+          "SUNKIST® Orange",
+          "+",
+          "Very Cherry"
+        ]
+      },
+      {
+        "combinationId": 25,
+        "name": "Fruit Salad",
+        "tag": [
+          "Kiwi",
+          "+",
+          "Strawberry Jam",
+          "+",
+          "Blueberry",
+          "+",
+          "Cantaloupe"
+        ]
+      },
+      {
+        "combinationId": 26,
+        "name": "Ginger Beer",
+        "tag": [
+          "Draft Beer",
+          "+",
+          "Draft Beer",
+          "+",
+          "Ginger Ale"
+        ]
+      },
+      {
+        "combinationId": 27,
+        "name": "Green Apple Bubble Gum",
+        "tag": [
+          "Green Apple",
+          "+",
+          "Bubble Gum",
+          "+",
+          "Bubble Gum"
+        ]
+      },
+      {
+        "combinationId": 28,
+        "name": "Hot Apple Cider",
+        "tag": [
+          "Red Apple",
+          "+",
+          "Red Apple",
+          "+",
+          "Cinnamon"
+        ]
+      },
+      {
+        "combinationId": 29,
+        "name": "Hot Chocolate",
+        "tag": [
+          "Toasted Marshmallow",
+          "+",
+          "Chocolate Pudding"
+        ]
+      },
+      {
+        "combinationId": 30,
+        "name": "Hot Fudge Sundae",
+        "tag": [
+          "French Vanilla",
+          "+",
+          "French Vanilla",
+          "+",
+          "Chocolate Pudding",
+          "+",
+          "A&W® Cream Soda",
+          "+",
+          "Very Cherry"
+        ]
+      },
+      {
+        "combinationId": 31,
+        "name": "Iced Vanilla Latte",
+        "tag": [
+          "French Vanilla",
+          "+",
+          "Cappuccino"
+        ]
+      },
+      {
+        "combinationId": 32,
+        "name": "Italian Biscotti",
+        "tag": [
+          "Licorice",
+          "+",
+          "Buttered Popcorn",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 33,
+        "name": "Key Lime Pie",
+        "tag": [
+          "Lemon Lime",
+          "+",
+          "Toasted Marshmallow"
+        ]
+      },
+      {
+        "combinationId": 34,
+        "name": "Lemon Squares",
+        "tag": [
+          "Lemon",
+          "+",
+          "Lemon",
+          "+",
+          "Vanilla",
+          "+",
+          "Coconut"
+        ]
+      },
+      {
+        "combinationId": 35,
+        "name": "Mango Pineapple Salsa",
+        "tag": [
+          "Mango",
+          "+",
+          "Crushed Pineapple",
+          "+",
+          "Chili Mango"
+        ]
+      },
+      {
+        "combinationId": 36,
+        "name": "Mango Tango Salsa",
+        "tag": [
+          "Mango",
+          "+",
+          "Lemon Lime",
+          "+",
+          "Chili Mango"
+        ]
+      },
+      {
+        "combinationId": 37,
+        "name": "Michelada",
+        "tag": [
+          "Draft Beer",
+          "+",
+          "Draft Beer",
+          "+",
+          "Lemon Lime",
+          "+",
+          "Tabasco®"
+        ]
+      },
+      {
+        "combinationId": 38,
+        "name": "Mud Pie",
+        "tag": [
+          "Chocolate Pudding",
+          "+",
+          "Chocolate Pudding",
+          "+",
+          "Very Cherry"
+        ]
+      },
+      {
+        "combinationId": 39,
+        "name": "Peach Bellini Drink",
+        "tag": [
+          "Orange Sherbet",
+          "+",
+          "Orange Sherbet",
+          "+",
+          "A&W® Cream Soda"
+        ]
+      },
+      {
+        "combinationId": 40,
+        "name": "Peaches and Cream",
+        "tag": [
+          "Peach",
+          "+",
+          "A&W® Cream Soda"
+        ]
+      },
+      {
+        "combinationId": 41,
+        "name": "Pink Lemonade",
+        "tag": [
+          "Cotton Candy",
+          "+",
+          "SUNKIST® Lemon"
+        ]
+      },
+      {
+        "combinationId": 42,
+        "name": "Plum Pudding",
+        "tag": [
+          "Plum",
+          "+",
+          "Plum",
+          "+",
+          "French Vanilla"
+        ]
+      },
+      {
+        "combinationId": 43,
+        "name": "Plum Sorbet",
+        "tag": [
+          "Plum",
+          "+",
+          "Plum",
+          "+",
+          "SUNKIST® Lemon",
+          "+",
+          "Green Apple"
+        ]
+      },
+      {
+        "combinationId": 44,
+        "name": "Plum Tart",
+        "tag": [
+          "Plum",
+          "+",
+          "Plum",
+          "+",
+          "Cinnamon",
+          "+",
+          "A&W® Cream Soda"
+        ]
+      },
+      {
+        "combinationId": 45,
+        "name": "Pumpkin Spice Latte",
+        "tag": [
+          "Pumpkin Pie",
+          "+",
+          "Pumpkin Pie",
+          "+",
+          "French Vanilla",
+          "+",
+          "Cappuccino"
+        ]
+      },
+      {
+        "combinationId": 46,
+        "name": "Rainbow Sherbet",
+        "tag": [
+          "Raspberry",
+          "+",
+          "Lemon Lime",
+          "+",
+          "Orange Sherbet"
+        ]
+      },
+      {
+        "combinationId": 47,
+        "name": "Raspberry Crème Brûlée",
+        "tag": [
+          "French Vanilla",
+          "+",
+          "Raspberry",
+          "+",
+          "Toasted Marshmallow"
+        ]
+      },
+      {
+        "combinationId": 48,
+        "name": "Root Beer Float",
+        "tag": [
+          "A&W® Root Beer",
+          "+",
+          "A&W® Root Beer",
+          "+",
+          "A&W® Cream Soda"
+        ]
+      },
+      {
+        "combinationId": 49,
+        "name": "S'mores",
+        "tag": [
+          "Caramel Corn",
+          "+",
+          "Toasted Marshmallow",
+          "+",
+          "Toasted Marshmallow",
+          "+",
+          "Chocolate Pudding"
+        ]
+      },
+      {
+        "combinationId": 50,
+        "name": "Strawberry-Kiwi Refresher",
+        "tag": [
+          "Kiwi",
+          "+",
+          "Strawberry Daiquiri"
+        ]
+      },
+      {
+        "combinationId": 51,
+        "name": "Strawberry Shortcake",
+        "tag": [
+          "Strawberry Jam",
+          "+",
+          "French Vanilla"
+        ]
+      },
+      {
+        "combinationId": 52,
+        "name": "Sweet Fried Bananas",
+        "tag": [
+          "Top Banana",
+          "+",
+          "Top Banana",
+          "+",
+          "Cinnamon",
+          "+",
+          "Buttered Popcorn"
+        ]
+      },
+      {
+        "combinationId": 53,
+        "name": "Tequila Sunrise",
+        "tag": [
+          "Margarita",
+          "+",
+          "Margarita",
+          "+",
+          "SUNKIST® Orange",
+          "+",
+          "Very Cherry"
+        ]
+      },
+      {
+        "combinationId": 54,
+        "name": "Tiramisu",
+        "tag": [
+          "Cappuccino",
+          "+",
+          "Cappuccino",
+          "+",
+          "A&W® Cream Soda",
+          "+",
+          "Chocolate Pudding"
+        ]
+      }
+    ]
+  }
+]
