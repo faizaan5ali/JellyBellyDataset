@@ -63,6 +63,11 @@ def plot_graph(G, title="Flavor Combination Network"):
     plt.axis("off")
     plt.show()
 
+# Entry point of the program. 
+# Loads all jelly bean data from 'beans.csv' and prints each bean to verify successful loading.
+# Then builds a flavor combination graph using data from 'combinations.csv', 
+# displaying the total number of flavor nodes and combination edges.
+# Finally, visualizes the resulting graph to show relationships between different flavors.
 if __name__ == "__main__":
     beans = load_beans("output/beans.csv")
     for bean in beans:

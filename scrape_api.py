@@ -83,6 +83,11 @@ def write_csv(filename: str, records):
 
     print(f"Saved {len(records)} records → {filepath}")
 
+# Main function that iterates through all API endpoints defined in ENDPOINTS.
+# For each endpoint, it fetches paginated data (up to 2000 records per page)
+# and writes the results to a corresponding CSV file.
+# If any endpoint fails during fetching or writing, the error is caught and printed
+# without stopping the rest of the process.
 def main():
     for endpoint, csv_name in ENDPOINTS.items():
         try:
