@@ -43,3 +43,7 @@ Data was gathered from the following API endpoints:
 
 Each request was made via Python using the `requests` library.  
 For endpoints supporting pagination, the script retrieved all pages until completion.
+Run `python scrape_api.py` to automatically connect to the Jelly Belly API, pull JSON responses for each endpoint, and finally save data to the outputs directory. 
+
+Run `python web_graph.py` to visualize a simple network based on combinations data and color coded data from the beans dataset.
+
